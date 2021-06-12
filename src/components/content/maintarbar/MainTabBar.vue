@@ -81,6 +81,9 @@ export default {
 
 <style>
 img {
+  width: 100%;
+}
+.tab-bar-item img {
   width: 24px;
 }
 </style>
